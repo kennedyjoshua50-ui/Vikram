@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Easy Alpha Kids",
+  "description": "A high-end parenting management app for single working parents, featuring a simplified timeline, AI-powered assistance, and domestic help management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
